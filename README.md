@@ -1,3 +1,29 @@
+# lovable-for-beginners
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Your complete beginner’s course to mastering Lovable Vibe Coding.  This repo is a step-by-step learning hub designed to take absolute beginners and turn them into confident Lovable developers.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Lovable Vibe Coding 完整入门课程，面向绝对新手的分步学习中心。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # Lovable for Beginners
